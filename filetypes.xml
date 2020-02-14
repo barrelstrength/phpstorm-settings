@@ -6,6 +6,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".multienv" type="PLAIN_TEXT" />
       <mapping pattern="npm~HEAD" type="PLAIN_TEXT" />
+      <mapping pattern="feed" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
